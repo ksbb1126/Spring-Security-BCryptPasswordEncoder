@@ -45,7 +45,7 @@ public class UserDao {
     }
 
     public void connection() throws SQLException {
-        String url = "jdbc:mysql://localhost:3306/db01";
+        String url = "jdbc:mysql://localhost:3306/db02";
         String user = "root";
         String pwd = "1234";
 
